@@ -34,7 +34,7 @@ ECON 627 is structured as a sequential series of [modules](/modules), each takin
   * [Assessments](/assessments), which help you determine if you have acquired mastery of the material.
 
 ## About the instructor
-[Nori Tarui](https://nori523.wixsite.com/my-site) is a Professor of Economics at the University of Hawaiʻi at Mānoa. His research interests include climate change mitigation and adaptation, energy policy, and the environment-tourism nexus.
+[Nori Tarui](https://nori523.wixsite.com/my-site) is a Professor of Economics at the University of Hawaiʻi at Mānoa. His research interests include climate change mitigation and adaptation, energy policy, and the environment-tourism nexus. 
 
 ## About this website
 This website is based on the Morea Framework developed by [Philip Johnson](https://philipmjohnson.org), a Professor of Information and Computer Sciences at the University of Hawaiʻi at Mānoa. His research interests include climate change, educational technology, software engineering, and serious games. He is currently an active developer of [RadGrad](https://radgrad.org), an open source software system based on Javascript, Typescript, React, and Meteor.
