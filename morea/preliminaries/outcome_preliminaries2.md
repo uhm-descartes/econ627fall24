@@ -6,5 +6,5 @@ morea_type: outcome
 morea_sort_order: 10
 ---
 
-  * You can (CHANGE ME) 
+  * You can do the following (CHANGE ME) 
   * You can (CHANGE ME)
