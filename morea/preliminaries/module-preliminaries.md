@@ -20,4 +20,4 @@ morea_labels:
 morea_sort_order: 21
 ---
 
-Provides a review of key preliminary concepts and tools in the math for economics.
+Provides a review of key preliminary concepts and tools in the math for economics. 
