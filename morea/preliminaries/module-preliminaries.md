@@ -15,7 +15,7 @@ morea_assessments:
 morea_type: module
 morea_icon_url: /morea/preliminaries/math1.jpg
 morea_start_date: "2024-08-26"
-morea_end_date: "2021-09-04"
+morea_end_date: "2024-09-04"
 morea_labels:
 morea_sort_order: 21
 ---
