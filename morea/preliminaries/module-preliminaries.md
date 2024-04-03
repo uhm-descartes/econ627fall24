@@ -5,7 +5,9 @@ morea_coming_soon: false
 morea_id: module-preliminaries
 morea_prerequisites:
 morea_outcomes:
-  # - outcome-CHANGE-ME
+  - outcome-preliminaries1
+  - outcome-preliminaries2
+  - outcome-preliminaries3
 morea_readings:
   # - reading-CHANGE-ME
 morea_experiences:
