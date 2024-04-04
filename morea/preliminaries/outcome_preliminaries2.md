@@ -8,4 +8,4 @@ morea_sort_order: 10
 
   * You understand what sequences are, their convergence and limits. 
   * You understand what vector space, norm, and metric spaces are. 
-  
+   
