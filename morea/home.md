@@ -5,7 +5,7 @@ morea_type: home
 published: true
 ---
 
-## Welcome to ECON 627, Fall 2024
+## Welcome to ECON 627 Mathematics for Economics, Fall 2024
 
 <div class="alert alert-danger" role="alert" markdown="1">
 
